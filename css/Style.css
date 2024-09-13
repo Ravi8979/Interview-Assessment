@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #c99288;
+}
+
+.header {
+    background-color: #beab4f;
+}
+
+.hero {
+    background: #73d35e;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    color: #AD1A1A;
+    font-size: 48px;
+}
+
+.hero p {
+    color: #1e2811;
+    font-size: 18px;
+}
+
+.featured-courses h2 {
+    text-align: center;
+    color: #396A78;
+}
+
+footer {
+    background-color: #96564a;
+    color: #252B42;
+}
